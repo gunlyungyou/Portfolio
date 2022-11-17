@@ -1,8 +1,10 @@
-# Data Science Portfolio - Arch Desai
+# Data Science Portfolio
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
-- **Email**: [archdesai.ad@gmail.com](archdesai.ad@gmail.com)
+- **Email**: [rjsfud9@naver.com](rjsfud9@naver.com)
+<!--
 - **LinkedIn**: [linkedin.com/archd3sai](https://www.linkedin.com/in/archd3sai/)
+-->
 
 ## Achievements
 - Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
@@ -12,7 +14,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/Sentiment_analysis.png"> **[Prediction of Stock Movement Using Unsupervised Sentimental Anlaysis](https://github.com/gunlyungyou/Prediction-of-stock-price-using-text-mining)**
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
 
