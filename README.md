@@ -14,7 +14,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/gunlyungyou/Portfolio/blob/main/blob/master/Images/survival_analysis.png"> **[Prediction of Stock Movement Using Unsupervised Sentimental Anlaysis](https://github.com/gunlyungyou/Prediction-of-stock-price-using-text-mining)**
+<img align="left" width="250" height="150" src="https://github.com/gunlyungyou/Portfolio/blob/main/blob/master/Images/Sentiment_analysis.png"> **[Prediction of Stock Movement Using Unsupervised Sentimental Anlaysis](https://github.com/gunlyungyou/Prediction-of-stock-price-using-text-mining)**
 
 신문기사와 사업보고서를 이용해서 실적 공시 다음 날 주가의 당락을 예측한 프로젝트입니다. word2vec을 이용한 word embedding, Label Propagation을 통한 unsupervised learning 문제를 supervised learning 문제로 변환하여 감성 사전을 구축하고 sentiment scoring을 진행하였습니다.
 
