@@ -20,7 +20,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/gunlyungyou/Portfolio/blob/main/blob/master/Images/sulvival_analysis.png"> **[Modeling the Effectiveness of New Anti-cancer Drugs Using Survival Analysis and Logistic Regression](https://github.com/gunlyungyou/Modeing-the-Effectiveness-of-New-Anticancer-Drugs-Using-Survival-Analysis-and-Logistic-Regression)**
+<img align="left" width="250" height="150" src="https://github.com/gunlyungyou/Portfolio/blob/main/blob/master/Images/survival_analysis.png"> **[Modeling the Effectiveness of New Anti-cancer Drugs Using Survival Analysis and Logistic Regression](https://github.com/gunlyungyou/Modeing-the-Effectiveness-of-New-Anticancer-Drugs-Using-Survival-Analysis-and-Logistic-Regression)**
 
 2019년 대한민국에 처음 도입된 항암치료 방법인 면역관문억제제의 효과를 모델링하고 대상자들의 특성을 통계 분석한 대학원 프로젝트 입니다. 보험심사평가원의 수주를 받아 대한항암협회 교수님들과의 협업을 통해 진행이 되었습니다. 간단한 T-test와 Chi-square test같은 통계 분석에서부터 Logistic Regression과 Cox-Proportional Hazard Regression, Kaplan Meier와 같은 survival analysis를 통한 모델링을 통해 새로운 치료제의 효능에 대해 입증하였습니다.
 
