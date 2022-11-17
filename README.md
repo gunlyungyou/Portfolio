@@ -14,7 +14,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/gunlyungyou/Portfolio/tree/main/blob/master/Images/Sentiment_analysis.png"> **[Prediction of Stock Movement Using Unsupervised Sentimental Anlaysis](https://github.com/gunlyungyou/Prediction-of-stock-price-using-text-mining)**
+<img align="left" width="250" height="150" src="https://github.com/gunlyungyou/Portfolio/blob/main/blob/master/Images/Sentiment_analysis.png"> **[Prediction of Stock Movement Using Unsupervised Sentimental Anlaysis](https://github.com/gunlyungyou/Prediction-of-stock-price-using-text-mining)**
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
 
