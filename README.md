@@ -12,7 +12,7 @@
 
 #
 
-<img align="left" width="250" height="180" src="https://github.com/gunlyungyou/Portfolio/blob/main/blob/master/Images/survival_analysis.png"> **[Modeling the Effectiveness of New Anti-cancer Drugs Using Survival Analysis and Logistic Regression](https://github.com/gunlyungyou/Modeing-the-Effectiveness-of-New-Anticancer-Drugs-Using-Survival-Analysis-and-Logistic-Regression)**
+<img align="left" width="250" height="180" src="https://github.com/gunlyungyou/Portfolio/blob/main/blob/master/Images/survival_analysis.png"> **[Modeling the Effectiveness of New Anti-cancer Drugs Using Survival Analysis and Logistic Regression](https://github.com/gunlyungyou/Modeling-the-Effectiveness-of-New-Anticancer-Drugs-Using-Survival-Analysis-and-Logistic-Regression)**
 
 면역관문억제제의 효과를 모델링하고 대상자들의 특성을 통계 분석한 프로젝트 입니다. 보험심사평가원의 수주를 받아 대한항암협회 교수님들과 협업하였습니다. T-test와 Chi-square test같은 통계 분석에서부터 Logistic Regression과 Cox-Proportional Hazard Regression, Kaplan Meier 등의 survival analysis를 이용하여 새로운 치료제의 효능에 대해 입증하였습니다.
 
