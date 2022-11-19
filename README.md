@@ -20,22 +20,23 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 <br />
 
 ## Micro Projects
-- ### Statistics Analysis & Consulting as Statistician
-    - [2017년 청소년 건강행태온라인조사를 활용한 청소년의 스마트폰 과사용으로 인한 주관적 건강과 행복, 신체활동 및 정신건강에 대한 연구](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002549650) : ANOVA test, Logistic Regression, T-test
-    - [국민건강영양조사 자료를 이용한 커피 섭취와 고혈압의 관계에 대한 연구] : Linear Regression, T-test, Chi-squre test
-    - [사회경제수준에 따른 당뇨병성 망막증 유병률] : Logistic Regession, T-test, Binomial test
 
- 
 - ### Data Competition
     - [Natural Language Processing with Disaster Tweets](https://github.com/gunlyungyou/Kaggle/tree/master/Real%20or%20Not%20NLP%20with%20Disaster%20Tweets): The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter
     - [Korea Health Datathon 2020](https://github.com/gunlyungyou/NAVER-KHD-HACKATHONE): 부비동 X-ray 이미지를 활용해 환자의 좌, 우측 상악동의 부비동염 여부를 분류해내는 딥러닝 모델 개발, Image contrast stretching, histogram equalization를 이용하여 이미지 전처리 진행, 기본 모델은 Pytorch를 이용한 Resnet Architecture 이용, Image Attention 기법인 CBAM 이용하여 모델 개발
+
+
+- ### Statistics Analysis & Consulting as Statistician
+    - [2017년 청소년 건강행태온라인조사를 활용한 청소년의 스마트폰 과사용으로 인한 주관적 건강과 행복, 신체활동 및 정신건강에 대한 연구](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002549650) : ANOVA test, Logistic Regression, T-test
+    - [국민건강영양조사 자료를 이용한 커피 섭취와 고혈압의 관계에 대한 연구] : Linear Regression, T-test, Chi-squre test
+    - [사회경제수준에 따른 당뇨병성 망막증 유병률] : Logistic Regession, T-test, Binomial tes
     
  
 ## Core Competencies
 
-- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, C++
-- **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
+- **Methodologies**: Statistics, ML/DL NLP, Causal Inference, Baeyesian, A/B Testing and Experimentation Design, Big Data Analytics
+- **Languages**: Python(Pytorch, Tensorflow, Scikit-learn etc..), R, SQL, Spark
+- **Tools**: MySQL, PySpark, Zeppelin, Databricks, S3, SAS, SPSS
 
 ## Publications
 
