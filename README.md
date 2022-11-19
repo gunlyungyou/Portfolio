@@ -1,10 +1,7 @@
 # Data Science Portfolio
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and Publications.
 
 - **Email**: [rjsfud9@naver.com](rjsfud9@naver.com)
-<!--
-- **LinkedIn**: [linkedin.com/archd3sai](https://www.linkedin.com/in/archd3sai/)
--->
 
 ## Achievements
 - Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
@@ -38,9 +35,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
     - [Natural Language Processing with Disaster Tweets](https://github.com/gunlyungyou/Kaggle/tree/master/Real%20or%20Not%20NLP%20with%20Disaster%20Tweets): The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter
     - [Korea Health Datathon 2020](https://github.com/gunlyungyou/NAVER-KHD-HACKATHONE): 부비동 X-ray 이미지를 활용해 환자의 좌, 우측 상악동의 부비동염 여부를 분류해내는 딥러닝 모델 개발, Image contrast stretching, histogram equalization를 이용하여 이미지 전처리 진행, 기본 모델은 Pytorch를 이용한 Resnet Architecture 이용, Image Attention 기법인 CBAM 이용하여 모델 개발
     
-- ### Ranking Algorithms
-    - [Ranking of NFL teams using Markov-chain methods](https://github.com/archd3sai/Ranking-of-NFL-Teams-using-Markov-method/blob/master/Ranking%20of%20NFL%20teams%20Report.pdf) : In this project I implemented and compared three stationary distribution of Markov-chain based approaches to rank 32 NFL (National Football League) teams from "Best" to "Worst" using the scores of 2007 NFL regular season.
-    - [Ranking of Tennis players](https://github.com/archd3sai/Tennis-Players-Ranking/blob/master/TennisRanking.ipynb) : Objective of this project is to rank all Tennis Players based on the matches they played in the year of 2018. This project comprises 4 approaches to rank Tennis players and I have tried to make these approaches more robust sequentially.
  
 ## Core Competencies
 
@@ -52,3 +46,10 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 - [순환신경망을 이용한 생존 분석 모형의 성능 비교](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=04d2386f4975342cffe0bdc3ef48d419&outLink=N)
 - [Real-world outcomes of anti-PD1 antibodies in platinum-refractory, PD-L1-positive recurrent and/or metastatic non-small cell lung cancer, and its potential practical predictors: first report from Korean Cancer Study Group LU19-05](https://link.springer.com/article/10.1007/s00432-021-03527-4)
+
+
+## Study
+- [MLOps 올인원](https://www.notion.so/MLOps-study-64787a6e5a004179b629f4896cad42a7)
+- [모두를 위한 딥러닝](https://github.com/gunlyungyou/DeepLearning-for-whole-poeple)
+- [NLPyhon](https://github.com/gunlyungyou/NLPython)
+- [Hansd on Machine Learning](https://github.com/gunlyungyou/hands-on-machine-learning)
