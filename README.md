@@ -30,8 +30,10 @@
     - [2017년 청소년 건강행태온라인조사를 활용한 청소년의 스마트폰 과사용으로 인한 주관적 건강과 행복, 신체활동 및 정신건강에 대한 연구](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002549650) : ANOVA test, Logistic Regression, T-test
     - [국민건강영양조사 자료를 이용한 커피 섭취와 고혈압의 관계에 대한 연구] : Linear Regression, T-test, Chi-squre test
     - [사회경제수준에 따른 당뇨병성 망막증 유병률] : Logistic Regession, T-test, Binomial tes
+
+## Paper Reviews
+    - [Customer Lifetime Value Prediction Using Embeddings](https://github.com/gunlyungyou/Portfolio/blob/main/papers/Customer%20Lifetime%20Value%20Prediction%20Using%20Embeddings.pdf) 
     
- 
 ## Core Competencies
 
 - **Methodologies**: Statistics, ML/DL NLP, Causal Inference, Baeyesian, A/B Testing and Experimentation Design, Big Data Analytics
