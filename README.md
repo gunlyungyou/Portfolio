@@ -22,7 +22,7 @@
 ## Micro Projects
 
 - ### Data Competition
-    - [Natural Language Processing with Disaster Tweets](https://github.com/gunlyungyou/Kaggle/tree/master/Real%20or%20Not%20NLP%20with%20Disaster%20Tweets): The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter
+    - [Natural Language Processing with Disaster Tweets](https://github.com/gunlyungyou/Kaggle/tree/master/Real%20or%20Not%20NLP%20with%20Disaster%20Tweets): 재난 관련 트윗이 진짜인이 가짜인지를 예측하는 대회, 기본 대회 데이터를 이용하여 Vectorization, Embedding, Bidirectional LSTM, BERT 등 NLP의 전반적인 method에 대해 적용한 딥러닝 모델 제작  
     - [Korea Health Datathon 2020](https://github.com/gunlyungyou/NAVER-KHD-HACKATHONE): 부비동 X-ray 이미지를 활용해 환자의 좌, 우측 상악동의 부비동염 여부를 분류해내는 딥러닝 모델 개발, Image contrast stretching, histogram equalization를 이용하여 이미지 전처리 진행, 기본 모델은 Pytorch를 이용한 Resnet Architecture 이용, Image Attention 기법인 CBAM 이용하여 모델 개발
 
 
