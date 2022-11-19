@@ -1,5 +1,5 @@
 # Data Science Portfolio
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and Publications.
+업무 외에 데이터를 활용한 Project, Competition에 대한 내용과 Publications이 포함되어 있습니다. 업무 시 진행한 Project에 대한 내용은 경력기술서에 기재되어 있습니다.
 
 - **Email**: [rjsfud9@naver.com](rjsfud9@naver.com)
 
