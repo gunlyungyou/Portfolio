@@ -28,12 +28,10 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 <br />
 
 ## Micro Projects
-- ### Statistics and Machine Learning
-    - [Genetic Algorithm](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : In this file, I have implemented simple genetic algorithm that finds out the list of numbers which equal to any specified number when summed together.
-    - [Bayesian Statistics](https://github.com/archd3sai/Statistical-Methods/blob/master/Bayesian%20Statistics.ipynb) : In this file, I explored how bayesian statistics works and how prior assumption reflects posterior probabilities using Gun control example. 
-    - [Gaussian Mixture Model and Expectation Maximization](https://github.com/archd3sai/Statistical-Methods/blob/master/GMM-EM.ipynb): In this file, I implemented Expectation Maximization algorithm to find out true distribution of one dimensional GMM of 2 gaussians.
-    - [Linear Regression](https://github.com/archd3sai/Statistical-Methods/blob/master/Linear%20Regression.ipynb): In this file, I aim to solve linear regression using analytical method and also by implementing gradient descent, stochastic gradient descent and minibatch gradient descent algorithms. 
-    - [Neural Network Implementation](https://github.com/archd3sai/Statistical-Methods/blob/master/NN%20Implementation.ipynb): In this file, I implemented simple neural network using forward propogation, backword propogation and optimization functions to predict the customer churn.
+- ### Statistics Analysis & Consulting
+    - [2017년 청소년 건강행태온라인조사를 활용한 청소년의 스마트폰 과사용으로 인한 주관적 건강과 행복, 신체활동 및 정신건강에 대한 연구](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002549650) : ANOVA test, Logistic Regression, T-test
+    - [국민건강영양조사 자료를 이용한 커피 섭취와 고혈압의 관계에 대한 연구] : Linear Regression, T-test, Chi-squre test
+
  
 - ### Challenges
     - [SQL Challenges](https://github.com/archd3sai/SQL): This repository contains codes of online SQL challenges (From Hackerrank, Leetcode, Testdome, etc.) solved by me.
