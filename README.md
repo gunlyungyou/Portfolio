@@ -31,6 +31,8 @@
     - [국민건강영양조사 자료를 이용한 커피 섭취와 고혈압의 관계에 대한 연구] : Linear Regression, T-test, Chi-squre test
     - [사회경제수준에 따른 당뇨병성 망막증 유병률] : Logistic Regession, T-test, Binomial tes
 
+<br />
+
 ## Paper Reviews
  - [Customer Lifetime Value Prediction Using Embeddings](https://github.com/gunlyungyou/Portfolio/blob/main/papers/Customer%20Lifetime%20Value%20Prediction%20Using%20Embeddings.pdf) 
  - [Profit Optimizing Churn Prediction for Long-Term Loyal Customersin Online](https://github.com/gunlyungyou/Portfolio/blob/main/papers/Profit%20Optimizing%20Churn%20Prediction%20for%20Long-Term%20Loyal%20Customersin%20Online.pdf) 
@@ -39,17 +41,22 @@
  - [Matrix Factorization Techniques for Recommender Systems](https://github.com/gunlyungyou/Portfolio/blob/main/papers/Matrix%20Factorization%20Techniques%20for%20Recommender%20Systems.pdf)
  - [Neural Collaborative Filtering](https://github.com/gunlyungyou/Portfolio/blob/main/papers/Neural%20Collaborative%20Filtering.pdf)     
  
+ <br />
+ 
 ## Core Competencies
 
 - **Methodologies**: Statistics, ML/DL NLP, Causal Inference, Baeyesian, A/B Testing and Experimentation Design, Big Data Analytics
 - **Languages**: Python(Pytorch, Tensorflow, Scikit-learn etc..), R, SQL, Spark
 - **Tools**: MySQL, PySpark, Zeppelin, Databricks, S3, SAS, SPSS
 
+<br />
+
 ## Publications
 
 - [순환신경망을 이용한 생존 분석 모형의 성능 비교](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=04d2386f4975342cffe0bdc3ef48d419&outLink=N)
 - [Real-world outcomes of anti-PD1 antibodies in platinum-refractory, PD-L1-positive recurrent and/or metastatic non-small cell lung cancer, and its potential practical predictors: first report from Korean Cancer Study Group LU19-05](https://link.springer.com/article/10.1007/s00432-021-03527-4)
 
+<br />
 
 ## Conference Speaker
 <img align="left" width="250" height="150" src="https://github.com/gunlyungyou/Portfolio/blob/main/blob/master/Images/speaker.png"> **[Max Summit 2022 - 데이터 시대의 새로운 마케팅 성과 측정(Last Session on 2022/09/27 in stage A)](https://maxsummit.co/)**
