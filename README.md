@@ -52,7 +52,9 @@
 
 
 ## Conference Speaker
- - <img align="left" width="250" height="150" src="https://github.com/gunlyungyou/Portfolio/blob/main/blob/master/Images/speaker.png">[Max Summit 2022 - 데이터 시대의 새로운 마케팅 성과 측정(Last Session on 2022/09/27 in stage A)](https://maxsummit.co/) : A/B test, Bayesian Structural Time Series, Causal Inference Regression의 마케팅 적용에 대한 연구 내용을 넥슨을 대표하여 연사로 발표 
+ - <img align="left" width="200" height="120" src="https://github.com/gunlyungyou/Portfolio/blob/main/blob/master/Images/speaker.png">[Max Summit 2022 - 데이터 시대의 새로운 마케팅 성과 측정(Last Session on 2022/09/27 in stage A)](https://maxsummit.co/) : A/B test, Bayesian Structural Time Series, Causal Inference Regression의 마케팅 적용에 대한 연구 내용을 넥슨을 대표하여 연사로 발표 
+
+
 
 ## Study
 - [MLOps 올인원](https://www.notion.so/MLOps-study-64787a6e5a004179b629f4896cad42a7)
