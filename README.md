@@ -32,7 +32,7 @@
     - [사회경제수준에 따른 당뇨병성 망막증 유병률] : Logistic Regession, T-test, Binomial tes
 
 ## Paper Reviews
-    - [Customer Lifetime Value Prediction Using Embeddings](https://github.com/gunlyungyou/Portfolio/blob/main/papers/Customer%20Lifetime%20Value%20Prediction%20Using%20Embeddings.pdf) 
+ - [Customer Lifetime Value Prediction Using Embeddings](https://github.com/gunlyungyou/Portfolio/blob/main/papers/Customer%20Lifetime%20Value%20Prediction%20Using%20Embeddings.pdf) 
     
 ## Core Competencies
 
