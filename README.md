@@ -70,3 +70,8 @@ A/B test, Bayesian Structural Time Series, Causal Inference Regression의 마케
 - [모두를 위한 딥러닝](https://github.com/gunlyungyou/DeepLearning-for-whole-poeple)
 - [NLPyhon](https://github.com/gunlyungyou/NLPython)
 - [Hansd on Machine Learning](https://github.com/gunlyungyou/hands-on-machine-learning)
+
+<br />
+
+## Knowledge Blog
+ - https://www.notion.so/Blog-efe07910a99c444d9f352e15b9d54c58
