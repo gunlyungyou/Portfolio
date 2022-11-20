@@ -33,7 +33,12 @@
 
 ## Paper Reviews
  - [Customer Lifetime Value Prediction Using Embeddings](https://github.com/gunlyungyou/Portfolio/blob/main/papers/Customer%20Lifetime%20Value%20Prediction%20Using%20Embeddings.pdf) 
-    
+ - [Profit Optimizing Churn Prediction for Long-Term Loyal Customersin Online](https://github.com/gunlyungyou/Portfolio/blob/main/papers/Profit%20Optimizing%20Churn%20Prediction%20for%20Long-Term%20Loyal%20Customersin%20Online.pdf) 
+ - [Time-series Extreme Event Forecasting with Neural Networks at Uber](https://github.com/gunlyungyou/Portfolio/blob/main/papers/Time-series%20Extreme%20Event%20Forecasting%20with%20Neural%20Networks%20at%20Uber.pdf) 
+ - [Purchase Prediction in Free Online Games via Survival Analysis](https://github.com/gunlyungyou/Portfolio/blob/main/papers/Purchase%20Prediction%20in%20Free%20Online%20Games%20via%20Survival%20Analysis.pdf) 
+ - [Matrix Factorization Techniques for Recommender Systems](https://github.com/gunlyungyou/Portfolio/blob/main/papers/Matrix%20Factorization%20Techniques%20for%20Recommender%20Systems.pdf)
+ - [Neural Collaborative Filtering](https://github.com/gunlyungyou/Portfolio/blob/main/papers/Neural%20Collaborative%20Filtering.pdf)     
+ 
 ## Core Competencies
 
 - **Methodologies**: Statistics, ML/DL NLP, Causal Inference, Baeyesian, A/B Testing and Experimentation Design, Big Data Analytics
@@ -44,6 +49,10 @@
 
 - [순환신경망을 이용한 생존 분석 모형의 성능 비교](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=04d2386f4975342cffe0bdc3ef48d419&outLink=N)
 - [Real-world outcomes of anti-PD1 antibodies in platinum-refractory, PD-L1-positive recurrent and/or metastatic non-small cell lung cancer, and its potential practical predictors: first report from Korean Cancer Study Group LU19-05](https://link.springer.com/article/10.1007/s00432-021-03527-4)
+
+
+## Conference Speaker
+ - [Max Summit 2022 - 데이터 시대의 새로운 마케팅 성과 측정(Last Session on 2022/09/27 in stage A)](https://maxsummit.co/)
 
 
 ## Study
