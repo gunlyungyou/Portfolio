@@ -30,16 +30,7 @@
     - [2017년 청소년 건강행태온라인조사를 활용한 청소년의 스마트폰 과사용으로 인한 주관적 건강과 행복, 신체활동 및 정신건강에 대한 연구](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002549650) : ANOVA test, Logistic Regression, T-test
     - [국민건강영양조사 자료를 이용한 커피 섭취와 고혈압의 관계에 대한 연구] : Linear Regression, T-test, Chi-squre test
     - [사회경제수준에 따른 당뇨병성 망막증 유병률] : Logistic Regession, T-test, Binomial test
-
-<br />
-
-## Paper Reviews
- - [Customer Lifetime Value Prediction Using Embeddings](https://github.com/gunlyungyou/Portfolio/blob/main/papers/Customer%20Lifetime%20Value%20Prediction%20Using%20Embeddings.pdf) 
- - [Profit Optimizing Churn Prediction for Long-Term Loyal Customersin Online](https://github.com/gunlyungyou/Portfolio/blob/main/papers/Profit%20Optimizing%20Churn%20Prediction%20for%20Long-Term%20Loyal%20Customersin%20Online.pdf) 
- - [Time-series Extreme Event Forecasting with Neural Networks at Uber](https://github.com/gunlyungyou/Portfolio/blob/main/papers/Time-series%20Extreme%20Event%20Forecasting%20with%20Neural%20Networks%20at%20Uber.pdf) 
- - [Purchase Prediction in Free Online Games via Survival Analysis](https://github.com/gunlyungyou/Portfolio/blob/main/papers/Purchase%20Prediction%20in%20Free%20Online%20Games%20via%20Survival%20Analysis.pdf) 
- - [Matrix Factorization Techniques for Recommender Systems](https://github.com/gunlyungyou/Portfolio/blob/main/papers/Matrix%20Factorization%20Techniques%20for%20Recommender%20Systems.pdf)
- - [Neural Collaborative Filtering](https://github.com/gunlyungyou/Portfolio/blob/main/papers/Neural%20Collaborative%20Filtering.pdf)     
+   
  
  <br />
  
